@@ -7,6 +7,9 @@ class sum
 		b=30;
 		c=100;
 		c=a+b+c;
-		System.out.
+		System.out.println("The sum of Three values are "+c);
+	}
+}
+
 
 
