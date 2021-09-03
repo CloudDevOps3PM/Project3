@@ -6,6 +6,7 @@ class sum
 		a=50;
 		b=30;
 		c=100;
-		c=a+b+c
+		c=a+b+c;
+		System.out.
 
 
