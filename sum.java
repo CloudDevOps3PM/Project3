@@ -6,5 +6,6 @@ class sum
 		a=50;
 		b=30;
 		c=100;
+		c=a+b+c
 
 
